@@ -6,7 +6,8 @@
   - [Study-Notes](https://github.com/xueqing/MyNote)
   - [Python-Study](https://github.com/xueqing/Python)
   - [C++11-Exercise](https://github.com/xueqing/cplusplus11)
-  - [Html/css-Study](https://github.com/xueqing/My-Homepage)
+  - [HTML/CSS-Study](https://github.com/xueqing/My-Homepage)
+  - [websocket-demo](https://github.com/xueqing/websocket-demo.git)
 - Program exercise
   - [Leetcode-Exercise](https://github.com/xueqing/leetcode)
   - [Hihocoder-Exercise](https://github.com/xueqing/hihocoder)
